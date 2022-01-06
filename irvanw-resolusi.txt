@@ -1,0 +1,8 @@
+Halo pak, salam kenal nama saya Irvan Wijaya dari Jakarta.
+
+Resolusi saya :
+- Membuat webapps kasir untuk coffeeshop, customer memesan menu lewat scan qrcode
+- Menggunakan FE react js
+- Menggunakan BE express js atau hapi js
+- Menggunakan db postgres/hasura atau nosql
+- Saya bekerja di datacenter
